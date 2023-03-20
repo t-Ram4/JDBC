@@ -1,0 +1,21 @@
+JDBC--Java Database Connectivity
+Java application <--> Database
+
+1.Load driver
+
+2.Establish connection to Database
+1.IP address
+2.Port number
+3.Schema
+4.user id
+5.password
+
+3. Create Statement
+
+4.Execute query
+
+5.Resultset
+
+Employee table
+
+emp
